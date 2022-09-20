@@ -29,7 +29,7 @@ import svgmin from 'gulp-svgmin';
 import concat from 'gulp-concat';
 import merge from 'merge-stream';
 import tinycolor from 'tinycolor2';
-import baseColors from '@skyscanner/bpk-foundations-common/base/colors/aliases.json';
+import baseColors from '@skyscanner/bpk-foundations-web/base/colors/aliases.json';
 import tokens from '@skyscanner/bpk-foundations-web/tokens/base.raw.json';
 import iconfont from 'gulp-iconfont';
 
