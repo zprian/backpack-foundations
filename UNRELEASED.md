@@ -1,5 +1,10 @@
 # 2023-06-21
 
+**Changed:**
+
+`bpk-mixins`:
+- Widened range of supported `node-sass` versions for newer support with node versions.
+
 **Added:**
 
 `@skyscanner/bpk-foundations-web:`: </br>
